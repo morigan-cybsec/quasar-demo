@@ -34,11 +34,11 @@ Só em **https://demoquasar.osmio.tech**. Este repositório não contém o códi
 
 ## Políticas do projeto
 
-- **Licença:** todos os direitos reservados. O conteúdo pode ser lido para avaliação; **qualquer uso, cópia ou reprodução exige autorização por escrito** dos autores. Veja [LICENSE](LICENSE).
+- **Licença:** todos os direitos reservados. O conteúdo pode ser lido para avaliação; **qualquer uso, cópia ou reprodução exige autorização por escrito** dos participantes do projeto. Veja [LICENSE](LICENSE).
 - **Dados:** tudo na demo é fictício. Não envie dados reais; o sistema é apagado de hora em hora.
-- **Segurança:** achou algo? Abra uma *issue* privada ou fale com o autor. A revisão de segurança feita antes da publicação está no [case](CASE.md#5-segurança). Não teste a demo com ferramentas de carga: há limites por IP e a VPS é compartilhada.
+- **Segurança:** achou algo? Abra uma *issue* privada ou fale com o autor. A revisão de segurança feita antes da publicação está no [case](CASE.md#5-segurança). Não teste a demo com ferramentas de carga: há limites por IP.
 - **Contribuições:** o repositório é de portfólio e não aceita *pull requests*. Sugestões por *issue* são bem-vindas.
-- **Código-fonte:** não é publicado. Avaliações técnicas do código podem ser combinadas com o autor.
+- **Código-fonte:** não é publicado. Avaliações técnicas do código podem ser combinadas no particular.
 
 ## Stack
 
